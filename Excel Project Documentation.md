@@ -45,7 +45,8 @@ The dataset used in this project includes road accident information with the fol
 ## Conclusion
 This project provides a comprehensive analysis of road accident data, offering valuable insights into casualty patterns and contributing factors. The visualizations and interactive filters enable effective exploration and understanding of the data. The findings can be used to inform road safety policies and initiatives to reduce accidents and casualties.
 
-![image](https://github.com/user-attachments/assets/7c3bb7dd-7fd0-420e-a469-99cb207a353d)
+![excel project 1](https://github.com/user-attachments/assets/cb1d17bc-b74c-4252-83aa-58f20cb6f50d)
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
